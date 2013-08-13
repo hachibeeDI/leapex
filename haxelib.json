@@ -1,0 +1,13 @@
+{
+  "name": "leapjs",
+  "url": "https://github.com/hachibeeDI/leapex",
+  "license": "MIT",
+  "classPath": "src/",
+  "tags": ["js"],
+  "description": "The project includes externs for leap.js",
+  "version": "0.0.1",
+  "releasenote": "",
+  "contributors": ["Daiki"],
+  "dependencies": {
+
+}
