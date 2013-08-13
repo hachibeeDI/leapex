@@ -1,10 +1,6 @@
-{
-  "name": "leapjs",
-  "url": "https://github.com/hachibeeDI/leapex",
-  "license": "MIT",
-  "tags": ["js"],
-  "description": "The project includes externs for leap.js",
-  "version": "0.0.1",
-  "releasenote": "",
-  "contributors": ["Daiki"],
-}
+<project name="leapex" url="https://github.com/hachibeeDI/leapex" license="MIT">
+	<user name="Daiki"/>
+	<tag v="js" />
+	<description>test haxelib</description>
+	<version name="0.0.1">initialize</version>
+</project>
